@@ -10,7 +10,18 @@ Example:
 <p align="center">
   <img src="images/Screenshot 1.png" alt="Coffee Shop Hero" width="800"/>
 </p>
-
+<p align="center">
+  <img src="images/Screenshot 4.png" alt="Coffee Shop Hero" width="800"/>
+</p>
+<p align="center">
+  <img src="images/Screenshot 5.png" alt="Coffee Shop Hero" width="800"/>
+</p>
+<p align="center">
+  <img src="images/Screenshot 2.png" alt="Coffee Shop Hero" width="800"/>
+</p>
+<p align="center">
+  <img src="images/Screenshot 3.png" alt="Coffee Shop Hero" width="800"/>
+</p>
 
 ## 🚀 Why this project
 
