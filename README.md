@@ -8,7 +8,7 @@ You can include one or more images here to show what your website looks like.
 Example:
 
 <br>
-![Coffee Shop Hero Section]("C:\Users\Abhilasha\Downloads\Projects\CoffeeWebsite\Screenshots\Screenshot 1.png")  
+(Coffee-Shop-Website-/images/Screenshot 1.png)  
 <br>
 
 > Adjust the filename and path according to where you store your images (see “🗂️ Repository Structure” below).
