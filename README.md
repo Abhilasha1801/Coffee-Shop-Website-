@@ -7,11 +7,10 @@ A simple, clean, and responsive static website for a coffee shop built with Reac
 You can include one or more images here to show what your website looks like.  
 Example:
 
-<br>
-![Screenshot1](images/Screenshot 1.png)
-<br>
+<p align="center">
+  <img src="images/Screenshot 1.png" alt="Coffee Shop Hero" width="800"/>
+</p>
 
-> Adjust the filename and path according to where you store your images (see “🗂️ Repository Structure” below).
 
 ## 🚀 Why this project
 
